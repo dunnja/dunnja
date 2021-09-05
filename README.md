@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/dunnja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dunnja&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunnja&theme=buefy&layout=compact" />
 </a>
