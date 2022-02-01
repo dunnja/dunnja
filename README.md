@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated BA (with Honours) in Law at Nottingham Trent University, 2012.
-- 💼 &nbsp; Working in as a Complaint Handler in Complaints and Compliance at Domestic & General.
+- 💼 &nbsp; Working in as a Junior Software Developer at Aspire Strategies.
 - 🌱 &nbsp; Learning more about React, React Native and NodeJS.
 - ✍️ &nbsp; Pursuing all things Web Dev and Blockchain.
 
