@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/dunnja">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dunnja&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dunnja&theme=maroongold&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunnja&theme=dark&layout=compact" />
 </a>
 
