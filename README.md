@@ -20,6 +20,7 @@
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo)
+  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
