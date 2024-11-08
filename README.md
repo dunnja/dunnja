@@ -51,7 +51,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/jay-dunn-15a023189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Dunn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/antagonistical/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Antagonistical-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jay--dunn@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jay--dunn@hotmail.com-blue?style=flat-square&logo=gmail"></a>
