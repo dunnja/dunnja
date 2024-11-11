@@ -35,8 +35,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-333333.svg?logo=vsc)](#)
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+  
 
 <br/>
 
