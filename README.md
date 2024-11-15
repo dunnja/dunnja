@@ -7,6 +7,7 @@
 - 💼 &nbsp; Working as a Software Developer at <a href="https://aspirestrategies.co.uk/">Aspire</a> and <a href="https://onwellbeing.com/">OnWellbeing</a>.
 - 🌱 &nbsp; Learning more about React Native, Laravel and C.
 - ✍️ &nbsp; Pursuing all things Web Dev and Blockchain.
+- 🎨 &nbsp; Building Aesthetically.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
