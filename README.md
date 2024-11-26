@@ -1,6 +1,6 @@
 <h2> Hello world! I'm Jay</h2>
 
-<h3> 👨🏻‍💻&nbsp;About Me </h3>
+<h3> 🧔&nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated BA (with Honours) in Law at Nottingham Trent University, 2012.
