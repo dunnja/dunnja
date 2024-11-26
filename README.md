@@ -1,13 +1,13 @@
 <h2> Hello world! I'm Jay</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻&nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated BA (with Honours) in Law at Nottingham Trent University, 2012.
 - 💼 &nbsp; Working as a Software Developer at <a href="https://aspirestrategies.co.uk/">Aspire</a> and <a href="https://onwellbeing.com/">OnWellbeing</a>.
 - 🌱 &nbsp; Learning more about React, React Native, Laravel and C.
 - ✍️ &nbsp; Pursuing all things Web Dev and Mobile.
-- 🎨 &nbsp; Building Aesthetically.
+- 🏛️ &nbsp; Building Aesthetically.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
