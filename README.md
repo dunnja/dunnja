@@ -52,7 +52,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Where you can find Me </h3>
 
 <p>
 <a href="https://www.linkedin.com/in/jay-dunn-15a023189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Dunn-blue?style=flat-square&logo=linkedin"></a>
